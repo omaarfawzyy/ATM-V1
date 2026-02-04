@@ -1,0 +1,8 @@
+{ "transactions": [
+  { "cardNumber": "1111222233334444", "type": "WITHDRAW", "amount": 300.0 },
+  { "cardNumber": "1111222233334444", "type": "DEPOSIT", "amount": 500.0 },
+  { "cardNumber": "1111222233334444", "type": "DEPOSIT", "amount": 100000.0 },
+  { "cardNumber": "1111222233334444", "type": "DEPOSIT", "amount": 50000.0 },
+  { "cardNumber": "5555666677778888", "type": "WITHDRAW", "amount": 800.0 },
+  { "cardNumber": "5555666677778888", "type": "WITHDRAW", "amount": 20.0 }
+]}

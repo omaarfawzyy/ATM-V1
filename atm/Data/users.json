@@ -1,0 +1,5 @@
+{ "users": [
+  { "cardNumber": "1234", "pin": "0000", "balance": 152700.0 },
+  { "cardNumber": "12345", "pin": "4321", "balance": 380.0 },
+  { "cardNumber": "123978", "pin": "5555", "balance": 20.0 }
+]}
